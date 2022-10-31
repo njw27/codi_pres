@@ -1,0 +1,26 @@
+id,referenceable_id,referenceable_type,amount,start_date,recurring,description
+1,1,long_term_plan,1000,2022-01-10,TRUE,couch
+2,2,long_term_plan,3600,2022-03-01,TRUE,furniture rental
+3,4,long_term_plan,3000,2022-01-06,TRUE,Additional Furniture (per addendum)
+4,6,long_term_plan,24000,2022-04-27,FALSE,bathroom installation
+5,6,long_term_plan,8400,2022-04-27,TRUE,catering
+6,3,long_term_plan,200,2022-03-15,TRUE,Whiteboard
+7,3,long_term_plan,50,2022-03-15,TRUE,Floor Lamp
+8,6,long_term_plan,200,2022-04-27,TRUE,8 Laptop Stands
+9,5,long_term_plan,100,2022-03-10,TRUE,microphones + TV
+10,1,long_term_plan,180,2022-07-10,FALSE,Locksmith
+11,6,long_term_plan,380,2022-04-27,FALSE,utensils
+12,7,long_term_plan,520,2022-03-01,FALSE,mugs
+13,7,long_term_plan,100,2022-03-01,FALSE,coffee machine
+14,8,long_term_plan,4200,2022-03-15,TRUE,chairs and desks
+15,8,long_term_plan,1200,2022-01-20,TRUE,internet
+16,1,short_term_booking,1020,2022-03-05,FALSE,lunch
+17,9,long_term_plan,300,2022-01-25,TRUE,bookshelf
+18,9,long_term_plan,1802,2022-06-07,TRUE,ergonomic chairs
+19,9,long_term_plan,160,2022-01-25,TRUE,key cards
+20,2,short_term_booking,40,2022-04-01,FALSE,coffee
+21,5,short_term_booking,128,2022-05-11,FALSE,drinks and snacks
+22,6,short_term_booking,192,2022-06-10,FALSE,table rental
+23,16,long_term_plan,8000,2022-10-01,TRUE,catering
+24,21,long_term_plan,4500,2022-10-23,TRUE,Catering
+25,21,long_term_plan,1200,2022-12-10,TRUE,Internet
